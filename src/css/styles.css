@@ -57,6 +57,6 @@ body {
   font-weight: 600;
 }
 
-.is-hidden {
+.loader .is-hidden {
   display: none;
 }
