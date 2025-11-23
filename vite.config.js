@@ -39,7 +39,7 @@ export default defineConfig(({ command }) => {
         },
       },
 
-      outDir: '../docs',
+      outDir: '../dist',
 
       emptyOutDir: true,
     },
